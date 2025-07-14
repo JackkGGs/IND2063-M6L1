@@ -4,4 +4,5 @@ Hello there. This is a simple code example where I examine a task from M6L1 and 
 - Image sending
 - Audio sending
 - API access
+
 Thanks! Please don't hesitate to change this code to your needs.
